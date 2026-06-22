@@ -10,7 +10,7 @@
       </p>
 
       <div className="hero-actions">
-        <a href="/resume.pdf" className="btn btn-primary">Download Resume</a>
+        <a href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-primary">Download Resume</a>
         <a href="#contact" className="btn btn-secondary">Contact Me</a>
       </div>
     </section>
