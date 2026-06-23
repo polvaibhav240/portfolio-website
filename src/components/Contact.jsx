@@ -7,7 +7,7 @@
       </div>
 
       <div className="card contact-info">
-        <p><strong>Email:</strong> polvaibhav80@gmail.com</p>
+        <p><strong>Email:</strong> <a href="mailto:polvaibhav80@gmail.com">polvaibhav80@gmail.com</a></p>
         <p><strong>Phone:</strong> +91 7841850240</p>
         <p><strong>GitHub:</strong> <a href="https://github.com/polvaibhav240" target="_blank" rel="noreferrer">github.com</a></p>
         <p><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/vaibhav-pol-7372ba289" target="_blank" rel="noreferrer">linkedin.com</a></p>
